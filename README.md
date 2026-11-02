@@ -76,9 +76,13 @@ plt.show()
 ```
 ## Output:
 <img width="308" height="288" alt="image" src="https://github.com/user-attachments/assets/496875ea-c95f-4ae2-ad11-0eef8f718780" />
+
 <img width="752" height="83" alt="image" src="https://github.com/user-attachments/assets/6396d139-8812-4be0-82e7-f0ebb4d959b9" />
+
 <img width="311" height="72" alt="image" src="https://github.com/user-attachments/assets/3c3b4c99-f874-4335-893f-f17dd375c820" />
+
 <img width="665" height="62" alt="image" src="https://github.com/user-attachments/assets/71b1a3f2-2e5f-4ccf-9d60-6b3b13691447" />
+
 <img width="530" height="400" alt="image" src="https://github.com/user-attachments/assets/debd3490-cb2f-49fe-847e-aeeaf39c7e8e" />
 <img width="536" height="397" alt="image" src="https://github.com/user-attachments/assets/6e0d705b-107e-4a50-a9dc-37a026f9154d" />
 
